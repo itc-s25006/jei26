@@ -6,6 +6,6 @@ public class Q20 {
         c += 9;
 
         System.out.println(c);
-        
+
     }
 }
